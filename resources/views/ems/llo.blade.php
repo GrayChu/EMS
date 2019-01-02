@@ -86,19 +86,19 @@
         <table class="table table-bordered mt-3">
             <thead>
                 <tr>
-                    <th>Date</th>
-                    <th>人員</th>
-                    <th>max(lum)</th>
-                    <th>max(lum)_spec下限</th>
-                    <th>max(lum)_spec上限</th>
-                    <th>percent area_monitor(lum)</th>
-                    <th>percent area_monitor(lum)_spec下限</th>
-                    <th>percent area_monitor(lum)_spec上限</th>
-                    <th>Percent area-beam size(lum)</th>
-                    <th>Percent area-beam size(lum)_spec下限</th>
-                    <th>Percent area-beam size(lum)_spec上限</th>
-                    <th>fullpower(W)</th>
-                    <th>fullpower(W)_spec</th>
+                    <th class="table-warning">Date</th>
+                    <th class="table-warning">人員</th>
+                    <th class="table-warning">max(lum)</th>
+                    <th class="table-secondary">max(lum)_spec下限</th>
+                    <th class="table-secondary">max(lum)_spec上限</th>
+                    <th class="table-warning">percent area_monitor(lum)</th>
+                    <th class="table-secondary">percent area_monitor(lum)_spec下限</th>
+                    <th class="table-secondary">percent area_monitor(lum)_spec上限</th>
+                    <th class="table-warning">Percent area-beam size(lum)</th>
+                    <th class="table-secondary">Percent area-beam size(lum)_spec下限</th>
+                    <th class="table-secondary">Percent area-beam size(lum)_spec上限</th>
+                    <th class="table-warning">fullpower(W)</th>
+                    <th class="table-secondary">fullpower(W)_spec</th>
                 </tr>
             </thead>
             <tbody id="contents">
