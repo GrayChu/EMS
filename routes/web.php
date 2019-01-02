@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/llo', function () {
+    return view('ems.llo');
+});
+Route::post('/insertLLO','EMSController@insertLLO');
